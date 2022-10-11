@@ -28,16 +28,16 @@ pwd                                 # print working directory (to find your curr
 cd <dir>                            # change the working directory to sub-directory
 cd ..                               # go to parent directory (go up)
 cd <PATH>                           # go to directory specified in <path>
-cd ~                                # go to your home directory 
+cd ~                                # go to your home directory
 cd ~/Documents/info201              # go to your INFO201 directory (the info201 directory must already exist)
-# 
+#
 ls                                  # list files of current directory
 ls -las                             # list files (show some details about the files with the flags -las)
 #
 mkdir <PATH>                        # make a new directory
 rmdir <PATH>                        # remove a directory (use with care!)
 #
-cp <PATH1> <PATH2>                  # copy a file 
+cp <PATH1> <PATH2>                  # copy a file
 mv <PATH1> <PATH2>                  # move a file from one directory to another or rename a file or directory
 rm <PATH>                           # remove a file or directory (use with care!)
 #
@@ -49,11 +49,14 @@ date                                # current time and date
 2. Set-up your directory structure for INFO-201. It should look like this (Mac OS):  
 ```
 ~/Documents/info201                  # Your root directory for INFO-201
-~/Documents/info201/assignments      # Your assignments will go here, in sub-directories 
-~/Documents/info201/data             # Your datasets will be saved in this directory 
+~/Documents/info201/assignments      # Your assignments will go here, in sub-directories
+~/Documents/info201/data             # Your datasets will be saved in this directory
 ~/Documents/info20/exercises         # Your weekly practice activities will go here, in sub-directories
 ```
 3. Describe the purpose of git and GitHub (see Freeman & Ross, 2019, chap. 3).
+Git is a version control system that allows us to maintain a clear and well documented history of work and allows us to refer back to earlier versions of my project and more easily identify errors.
+Github is a site that will hos a copy of my project in the cloud, enabling multiple people to collaborate using git. Github is one possible place where repositories of code can be stored.
+
 4. Demonstrate how to manage a project using git and GitHub, with these and similar commands (see Freeman & Ross, 2019, chap. 3):
 ```
 # Setting up basic identifying information
@@ -67,8 +70,13 @@ git add .                        # Add all files in current directory to  stagin
 git git commit -m "<A MESSAGE>"  # Make changess
 git push
 ```
+Git config is used to first configure the installation, a process of telling git who you are so you can commit changes to a repository.
+Git status command gives you information about the current state of the repository.
+Git add command adds files to the staging area, which are the temporary storage before committing.
+
 5. Use markdown syntax to format document (see Freeman & Ross, 2019, chap. 4).
-6. Discuss _Data Feminism_ and explain how it provides a viewpoint for critically investigating data visualizations.
+6. Discuss _Data Feminism_ and explain how it provides a viewpoint for critically investigating data visualization
+The book Data Feminism explains standard practices in data science serve to reinforce these existing inequalities and distribution of power, and thus data feminism should work to liberate from that oppressive power. When it regards standard practices in data science, it also is talking about data visualization, and how that can impact inequalities in our society today.
 
 ## Part I: The Command Line
 In Part I, you will practice working with the command line.
@@ -89,10 +97,10 @@ In Part II, you will create a report in Markdown.
 Please spend **ten minutes** or more scanning all the chapters in D'lgnazio & Klein (2020). You will find many different types of data visualizations. Some types will be quite familiar to you - see, for example, the bar charts in chapter 6. Others might be new or unusual, such as the iceberg in chapter 7.
 
 ### 2 Find A Data Visualization on the Internet
-Browse the web and find a data visualization that is **meaningful** to you. You might start, for example, at the [*New York Times*](http://nytimes.com) or [*Washington Post*](https://www.washingtonpost.com/) or other news source. Or, you might browse a scientific or cultural journal or website.  You should choose a visualization that was created for a specific purpose and that is credible. 
+Browse the web and find a data visualization that is **meaningful** to you. You might start, for example, at the [*New York Times*](http://nytimes.com) or [*Washington Post*](https://www.washingtonpost.com/) or other news source. Or, you might browse a scientific or cultural journal or website.  You should choose a visualization that was created for a specific purpose and that is credible.
 
 Best practice: Find several visualizations (3-5) that are appealing to you. Then, examine each one carefully and select the one that is most **meaningful** to you.
-
+three choices: pic chart, scatter plot, flow chart
 As you consider possible data visualizations, consider the following questions, which come from  D'lgnazio & Klein (2020, chap. 1):
 
 1. **Who**: Who or what institution produced the visualization?
@@ -104,6 +112,7 @@ As you consider possible data visualizations, consider the following questions, 
 
 **Note**: It may be difficult to answer these questions. That's okay. Nevertheless, try as best as you can to formulate specific answers.
 
+The flow process chart was originally introduced by Frank Gilbreth in 1921 as a structured method for documenting process flow, in his presentation “Process Charts, First Steps in Finding the One Best Way to Do Work.” His tools quickly found their way into industrial engineering curricula. Currently this form of data visualization is used most in fields of engineering, physical sciences, and computer programming. A flowchart visually displays the sequence of activities in a process and who is responsible for those activities. I am not sure what power is reflected in the data visualization.
 ### 3 Coding: Your Technical Requirements
 
 Your objective is to create a report that presents your research and analysis. You will write your report using Markdown, which is a computer language for formatting text.
@@ -136,7 +145,7 @@ Third, write short responses after each of these five headings. **Please note**:
 **Interests**: xxx (About 50 words [complete: ])
 **Key fact**: xxx (About 50 words [complete:  ])
 ```
-Forth, and finally, conclude your report with a brief reflection, titled, "Data Feminism: What I Learned?" (About 120 words). In this section, first, give a definition of data feminism from D'lgnazio & Klein (2020). Include the page number of the defintion. Second, given this defintion and your reading, briefly discuss one or two issues related your choosen data visualization. [complete: ])
+Forth, and finally, conclude your report with a brief reflection, titled, "Data Feminism: What I Learned?" (About 120 words). In this section, first, give a definition of data feminism from D'lgnazio & Klein (2020). Include the page number of the definition. Second, given this definition and your reading, briefly discuss one or two issues related your chosen data visualization. [complete: ])
 
 #### 3.4 Coding Requirements [Ten tasks to complete]
 In your report you **MUST** use at each of these elements at least once:
