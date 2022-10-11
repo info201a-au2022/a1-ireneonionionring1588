@@ -10,6 +10,7 @@ This is the A1 repository for INFO-201.
  #### Why this article, why this data visualization:
 Even though, we have all adjusted into our new way of life with the pandemic, I believe that knowing about Covid 19 and its trends and patterns in terms of how it spread around the world is very important to not let events like this repeat. In this way, I chose this data visualization, a line graph, because it makes it very easy to understand what trends and patterns are. I found this data visualization through an article in Washington Post by searching up with the keyword of "covid cases."\
 [Article with this data visualization](https://www.washingtonpost.com/graphics/2020/national/coronavirus-us-cases-deaths/?state=US)\
+![image]("C:\Users\irene\OneDrive\Documents\info201\assignments\a1-ireneonionionring1588\images\A1-visualizations\DataVisualization.png")
  #### What does this data visualization show:
 This data visualization shows the trends and patterns of covid death cases through spikes and sharp decreases in such cases. These covid deaths are recorded through February 29th of 2020 through October 11th of 2022. The number of deaths are recorded in thousandths and are shown as a line graph to show its changes in average number of deaths each month. Overall I think that this line graph informs the reader of the average number of deaths from covid as well as big changes through a time period. \
 **Who**: Undetermined \
