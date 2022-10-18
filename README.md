@@ -16,9 +16,9 @@ This data visualization shows the trends and patterns of covid death cases throu
 **Who**: The washington post produced the data visualization to make the information reguarding trends in recent covid deaths more visable to their viewers\
 **Date**: March 27th 2020\
 **Stakeholders**: The audience for this visualizations are washington post subscribers and ordinary people living in U.S. This visualization may indirectly imapct the lives of all citizens of U.S. as the government may use these data visualizations to implement changes to reduce the deaths.\
-**Interests**: Since this data visualization shows the number of deaths, this number may come as a shock to those living in the U.S. and may cause them to leave the country in fear of their safety\
-**Key fact**: this visualization shows the average death from covid 19 from 2020 to 2022, showing trends and patterns\
-**Power** : Inequality in our modern society is greatly reflected in the graph because significantly greater proportions of the deaths recorded come from certain groups of people like minorities
+**Interests**: Since this data visualization shows the number of deaths, this number may come as a shock to those living in the U.S. and may cause them to leave the country in fear of their safety. Not only that but it can also have the opposite effect of people thinking that pandemic is over and therefore they can start going around more and increasing the risk for everyone\
+**Key fact**: This visualization shows the average death from covid 19 from 2020 to 2022, showing trends and patterns that can be used to predict future patterns as well as to be used in changes to be implemented. THis also allows citizens to get a better idea of the state of the country in terms of the pandemic\
+**Power** : Inequality in our modern society is greatly reflected in the graph because significantly greater proportions of the deaths recorded come from certain groups of people like minorities. They often get less tools to keep themselves protected and are often the ones to be forced into more exposed enviornments
 > "Data feminism is a way of thinking about data, both their use and their limits, that is informed by direct experience, by a commitment to action, and by intersectional feminist thought (D'ignazio 4)."
 
 Some issues that my data visualization could have is:
